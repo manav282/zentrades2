@@ -1,0 +1,1 @@
+user can select any CSV file or json file, on clicking process data the attributes or column names will be fetched(in case of csv file user have to enter the delimeter also) and then user can select multiple column names to be displayed.
